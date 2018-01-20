@@ -8,8 +8,6 @@ image: ''
 ---
 [Read more at small business gov site.](https://www.smallbusiness.wa.gov.au/business-advice/marketing/8-ways-to-grow-your-business)
 
-Generating new business by growing your customer base is important to your business success. However, it can sometimes be very challenging.
-
 Here are some practical tips to help you grow your customer base.
 
 **Get to know your customers**

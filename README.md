@@ -1,1 +1,1 @@
-Meaning POwering Business Stories.
+Meaning Powering Business Stories.
